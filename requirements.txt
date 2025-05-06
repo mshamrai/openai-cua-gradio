@@ -1,0 +1,5 @@
+gradio==5.29.0
+pillow==11.2.1
+macapptree==0.0.2
+openai==1.77.0
+clipboard==0.0.4
